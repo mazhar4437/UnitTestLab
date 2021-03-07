@@ -1,0 +1,13 @@
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\bin\Debug\netcoreapp3.1\UnitTestLab4.exe
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\bin\Debug\netcoreapp3.1\UnitTestLab4.deps.json
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\bin\Debug\netcoreapp3.1\UnitTestLab4.runtimeconfig.json
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\bin\Debug\netcoreapp3.1\UnitTestLab4.runtimeconfig.dev.json
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\bin\Debug\netcoreapp3.1\UnitTestLab4.dll
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\bin\Debug\netcoreapp3.1\UnitTestLab4.pdb
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\obj\Debug\netcoreapp3.1\UnitTestLab4.csprojAssemblyReference.cache
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\obj\Debug\netcoreapp3.1\UnitTestLab4.AssemblyInfoInputs.cache
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\obj\Debug\netcoreapp3.1\UnitTestLab4.AssemblyInfo.cs
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\obj\Debug\netcoreapp3.1\UnitTestLab4.csproj.CoreCompileInputs.cache
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\obj\Debug\netcoreapp3.1\UnitTestLab4.dll
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\obj\Debug\netcoreapp3.1\UnitTestLab4.pdb
+C:\Users\mazhar.manasiya\source\repos\UnitTestLab4\UnitTestLab4\obj\Debug\netcoreapp3.1\UnitTestLab4.genruntimeconfig.cache
